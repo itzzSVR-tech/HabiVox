@@ -16,8 +16,6 @@
 2. [Tech Stack](#-tech-stack)
 3. [Features](#-features)
 4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
 
 ---
 
@@ -79,27 +77,6 @@ npm start
 ````
 
 Your app will be available at: [http://localhost:19002](http://localhost:19002) (for Expo development)
-
----
-
-## 🖼️ Screenshots
-
-<img src="https://github.com/user-attachments/assets/0d93c0cb-45b1-4c7c-9b77-666ca5f08e3d" width="300" />
-
-<img src="https://github.com/user-attachments/assets/96644c84-3381-45e6-9623-0a1d4d6f3bf0" width="300" />
-
----
-
-## ☁️ Deployment
-
-### Deploy on Expo
-
-1. Push your code to GitHub
-2. Go to [Expo](https://expo.dev/)
-3. Import your repository
-4. Click **Publish**
-
-Your live app will be hosted on a custom subdomain (e.g. `https://your-name.expo.dev`)
 
 ---
 
